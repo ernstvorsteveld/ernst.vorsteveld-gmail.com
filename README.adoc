@@ -1,0 +1,4 @@
+= Freemarker example
+
+Just a little example how freemarker is setup using Spring Boot.
+
